@@ -162,7 +162,7 @@ export default function Home() {
             vibe: "Every dollar helps us empower the next tech wave.",
           },
           {
-            title: "Resource Vault",
+            title: "Opportunities Vault",
             href: "https://2ly.link/27BAO",
             vibe: "Unlock tools, guides, entry level jobs for new grads with 0-2 years of experience.",
           },
